@@ -61,13 +61,13 @@
 
 @media (max-width: 600px) {
   .container{
-    width: 100%;
+    width: auto;
   }
 }
 
 @media (max-width: 768px) {
   .container{
-    width: 100%px;
+    width: auto;
   }
 }
 
